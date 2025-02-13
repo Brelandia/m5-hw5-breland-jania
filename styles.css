@@ -3,6 +3,7 @@ header {
 }
 footer {
     background-color: rgb(0, 0, 0);
+    text-decoration-color: antiquewhite;
 }
 div .nav {
     text-align: right;
@@ -16,7 +17,7 @@ body {
     Helvetica,
     sans-serif;
 }
-.box {
+.img {
   float:left;
   width: 150px;
   height: 100px;
