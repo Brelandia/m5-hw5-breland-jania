@@ -10,16 +10,19 @@ div .nav {
     text-align: right;
 }
 body {
-  width: 90%;
-  max-width: 900px;
-  margin: 0 auto;
-  font:
+width: 90%;
+max-width: 900px;
+margin: 0 auto;
+font:
     0.9em/1.2 Arial,
     Helvetica,
     sans-serif;
 }
 .img {
-  float:left;
-  width: 150px;
-  height: 100px;
+float:left;
+width: 150px;
+height: 200px;
+}
+main {
+    background-color:burlywood
 }
