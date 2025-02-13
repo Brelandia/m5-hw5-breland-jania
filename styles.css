@@ -19,7 +19,7 @@ body {
     Helvetica,
     sans-serif;
 }
-img {
+div .img {
   float:left;
   width: 150px;
   height: 200px;
