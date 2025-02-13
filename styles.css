@@ -18,7 +18,7 @@ body {
     Helvetica,
     sans-serif;
 }
-img {
+.img {
   float:left;
   width: 150px;
   height: 100px;
