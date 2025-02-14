@@ -55,7 +55,7 @@ main {
     float: left;
     padding: 20px;
     width: 70%;
-    padding-top:40px;
+    padding-top:80px;
 }
 header, footer {
     width: 100%;
@@ -72,7 +72,7 @@ aside {
     float: right;
     margin: 10px;
     color:black;
-    padding: 5px;
+    padding: 90px;
     width: 20%;
 }
 .sidebar img {
