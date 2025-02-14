@@ -1,11 +1,10 @@
-.header {
-    position: relative;
+header {
+    position: absolute;
     top: 0;
     left: 0;
     right: 0;
     width: 100%;
     padding: 40px, 0;
-    border-bottom: 5px, black;
     height: 80px;
 }
 h1 {
