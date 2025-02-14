@@ -4,7 +4,17 @@
     left: 0;
     right: 0;
     width: 100%;
+    padding: 50px;
     border-bottom: 5px, black;
+}
+h1 {
+    float: left;
+}
+nav {
+    float: right;
+    color:rgb(137, 200, 202);
+    font-size: 19px;
+    text-decoration: none;
 }
 .footer {
     position: absolute;
@@ -15,13 +25,6 @@
     bottom: 0;
     width: 100%;
     clear: both;
-}
-nav {
-    float: right;
-    color:rgb(137, 200, 202);
-    font-size: 19px;
-    text-decoration: none;
-
 }
 body {
   width: 90%;
@@ -51,7 +54,7 @@ main {
     background-color: azure;
     float: left;
     padding: 20px;
-    width: 70%;
+    width: 80%;
 }
 header, footer {
     width: 100%;
@@ -64,6 +67,7 @@ p {
     margin: 10px;
 }
 aside {
+    background-color: rgb(207 232 220);
     float: right;
     margin: 10px;
     color:black;
@@ -74,20 +78,10 @@ aside {
     width: 50px;
     height: 50px;
 }
-.box {
-    float:right;
-    width: 150px;
-    height: 100px;
-    border-radius: 5px;
-    background-color: rgb(207 232 220);
-    padding: 1em;
-  }
 h3{
     text-align: center;
 } 
-h1 {
-    float: left;
-}
+
 .container {
     max-width: 900 px;
     margin: 0 auto;
