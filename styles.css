@@ -84,4 +84,7 @@ aside {
   }
 h3{
     text-align: center;
-}  
+} 
+h1 {
+    float: right;
+} 
