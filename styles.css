@@ -51,6 +51,7 @@ main {
     background-color: azure;
     float: left;
     padding: 20px;
+    width: 80%;
 }
 header, footer {
     width: 100%;
@@ -67,6 +68,7 @@ aside {
     margin: 10px;
     color:black;
     padding: 5px;
+    width: 20%;
 }
 .sidebar img {
     width: 50px;
