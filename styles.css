@@ -1,5 +1,5 @@
 .header {
-    position:fixed;
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
@@ -17,7 +17,7 @@ nav {
     text-decoration: none;
 }
 .footer {
-    position: absolute;
+    position: fixed;
     font: size 10px;
     text-align: center;
     right:0;
@@ -54,6 +54,7 @@ main {
     background-color: azure;
     float: left;
     padding: 20px;
+    width: 70%;
 }
 header, footer {
     width: 100%;
@@ -71,6 +72,7 @@ aside {
     margin: 10px;
     color:black;
     padding: 5px;
+    width: 20%;
 }
 .sidebar img {
     text-align: center;
