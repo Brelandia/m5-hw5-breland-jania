@@ -6,6 +6,7 @@
     width: 100%;
     padding: 40px, 0;
     border-bottom: 5px, black;
+    height: 80px;
 }
 h1 {
     float: left;
