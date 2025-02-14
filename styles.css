@@ -58,7 +58,7 @@ header, footer {
     background-color: #470f61; 
     color: white;
   }
-h1 {
+h1 #name{
     float: left;
 }
 p {
